@@ -1,9 +1,9 @@
 body {
-	background-image: url("file:///Users/dannyjwkim/Documents/Bootcamp/homework/Week-4-Game-Cards/assets/images/field.jpg");
+	background-image: url("../images/field.jpg");
 }
 
 .jumbotron {
-	background-image: url("file:///Users/dannyjwkim/Documents/Bootcamp/homework/Week-4-Game-Cards/assets/images/field.jpg");
+	background-image: url("../images/field.jpg");
 }
 
 img {
